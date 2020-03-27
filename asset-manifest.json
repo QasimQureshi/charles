@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.50361a41.chunk.js",
+    "main.js": "/static/js/main.6ce4b578.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.d92d1311.js",
-    "static/js/2.00f53b6b.chunk.js": "/static/js/2.00f53b6b.chunk.js",
+    "static/js/2.129f9cfb.chunk.js": "/static/js/2.129f9cfb.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.c05bd326ed5ef630942f221558bf3d59.js": "/precache-manifest.c05bd326ed5ef630942f221558bf3d59.js",
+    "precache-manifest.70b605c343d51cd354bc016933d2abcc.js": "/precache-manifest.70b605c343d51cd354bc016933d2abcc.js",
     "service-worker.js": "/service-worker.js",
     "static/media/google-logo.1b8c51ce.svg": "/static/media/google-logo.1b8c51ce.svg",
     "static/media/twilio-logo.0e04ea74.svg": "/static/media/twilio-logo.0e04ea74.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d92d1311.js",
-    "static/js/2.00f53b6b.chunk.js",
-    "static/js/main.50361a41.chunk.js"
+    "static/js/2.129f9cfb.chunk.js",
+    "static/js/main.6ce4b578.chunk.js"
   ]
 }
