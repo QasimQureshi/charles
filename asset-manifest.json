@@ -1,21 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.f677347b.chunk.js",
-    "main.js.map": "/static/js/main.f677347b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c2a4c0d3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c2a4c0d3.js.map",
-    "static/js/2.f8735c60.chunk.js": "/static/js/2.f8735c60.chunk.js",
-    "static/js/2.f8735c60.chunk.js.map": "/static/js/2.f8735c60.chunk.js.map",
+    "main.js": "/static/js/main.50361a41.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.d92d1311.js",
+    "static/js/2.00f53b6b.chunk.js": "/static/js/2.00f53b6b.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.c16908e7bcc57ef549c256e26877694c.js": "/precache-manifest.c16908e7bcc57ef549c256e26877694c.js",
+    "precache-manifest.c05bd326ed5ef630942f221558bf3d59.js": "/precache-manifest.c05bd326ed5ef630942f221558bf3d59.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.f8735c60.chunk.js.LICENSE.txt": "/static/js/2.f8735c60.chunk.js.LICENSE.txt",
     "static/media/google-logo.1b8c51ce.svg": "/static/media/google-logo.1b8c51ce.svg",
     "static/media/twilio-logo.0e04ea74.svg": "/static/media/twilio-logo.0e04ea74.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2a4c0d3.js",
-    "static/js/2.f8735c60.chunk.js",
-    "static/js/main.f677347b.chunk.js"
+    "static/js/runtime-main.d92d1311.js",
+    "static/js/2.00f53b6b.chunk.js",
+    "static/js/main.50361a41.chunk.js"
   ]
 }
